@@ -95,6 +95,11 @@
 - https://www.youtube.com/watch?v=dWH65pmnsrI
 
 
+**Como o PHP funciona?**
+- Client-Side
+- Server-Side
 
-
+<p align="center">
+  <img alt="...." src="/assets/image1.jpg" width="100%">
+</p>
 
