@@ -21,13 +21,22 @@
 - Integração com formularios
 - Operadores
 
+
 **O que eu preciso saber?**
 - HTML
 - CSS
 - JS
 
 
+**Bibliografia recomendada**
+- PHP Documentação - https://www.php.net/manual/pt_BR/
+- Aprendendo PHP - Ed O'Reilly
+- PHP Programming - Ed O'Reilly
+- Learn PHP 8 - Ed Apress
+- PHP Quick Scripting Reference - Ed Apress
+- PHP & MySQL - Ed Wiley
 
+**Evolução do PHP**
 
 
 
